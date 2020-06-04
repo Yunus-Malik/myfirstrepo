@@ -1,4 +1,4 @@
-/* by Yunus - 03062020 */
+/* by Yunus - 03062020 added datagrip integration*/
 /*put in info from complaint (ec_id, sr_id or nectar card number)*/
 %let d_ec = ;
 %let d_sr = ;
